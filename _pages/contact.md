@@ -1,6 +1,10 @@
 ---
 permalink: /contact/
-title: "Contact"
+title: "Contacto"
 ---
 
-contact info!
+# Mail
+ninjainpijama@outlook.com
+
+# Telefono/Whatsapp
++593 98-540-3396
