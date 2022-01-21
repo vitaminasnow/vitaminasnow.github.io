@@ -86,7 +86,7 @@ author:
   links:
     - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: /pages/contact #mail.html
+      url: /contact #mail.html
     #- label: "Twitter"
     #  icon: "fab fa-fw fa-twitter-square"
     #  url: "https://twitter.com/"
