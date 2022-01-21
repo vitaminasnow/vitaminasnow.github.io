@@ -9,7 +9,7 @@ header:
 ---
 
 Bienvenidos.
-Larga historia corta, soy un antiguo y futuro estadístico que se hace pasar por proveedor de vitaminas que busca ayudar en la mejoría de su salud en general y en la prevención de enfermedades! Para toda tu familia!
+Larga historia corta, soy un antiguo y futuro estadístico que se hace pasar por proveedor de vitaminas. Busca ayudar en la mejora la salud en general y prevención de enfermedades! Para la familia!
 
 <p align="center">
   <img src="https://github.com/nipnipj/nipnipj.github.io/blob/master/assets/images/masonlog.jpeg?raw=true" alt="Sublime's custom image"/>
