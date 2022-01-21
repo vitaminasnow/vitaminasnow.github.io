@@ -4,8 +4,9 @@ classes: wide
 author_profile: false
 title: "VitaminasnoW"
 header:
-  #overlay_image: /assets/images/teaser.jpg
+  overlay_image: /assets/images/teaser.jpg
   overlay_filter: 0.05 # same as adding an opacity of 0.5 to a black background
+  text_color: black
 ---
 
 Bienvenidos.
