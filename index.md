@@ -5,7 +5,7 @@ author_profile: false
 title: "Welcome to this new page"
 header:
   overlay_image: /assets/images/teaser.jpg
-  overlay_filter: 0.2 # same as adding an opacity of 0.5 to a black background
+  overlay_filter: 0.8 # same as adding an opacity of 0.5 to a black background
 ---
 
 Bienvenidos.
