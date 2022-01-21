@@ -15,14 +15,14 @@
 # in the templates via {{ site.myvariable }}.
 locale: 'en-US'
 title: "VitaminasnoW"
-subtitle: "vitaminasno_ec"
+subtitle: "vitaminasnow_ec"
 logo: "/assets/images/vitlogo.jpg"
 name: 'cuysaurus'
 #twitter_username: username
 #github_username: username
 description: 'Freelancer'
 email: ninjainpijama@outlook.com
-teaser: '/assets/images/teaser.jpg'
+#teaser: '/assets/images/teaser.jpg'
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
