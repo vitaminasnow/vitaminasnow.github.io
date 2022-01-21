@@ -17,7 +17,7 @@ locale: 'en-US' # 'en-US' 'es-ES'
 title: "VitaminasnoW"
 subtitle: "vitaminasnow_ec"
 logo: "/assets/images/vitlogo.jpg"
-name: 'cuysauruS'
+name: 'CuysauruS'
 #twitter_username: username
 #github_username: username
 description: 'Freelancer'
@@ -78,7 +78,7 @@ whitelist:
 #    anonymize_ip: true
 
 author:
-  name   : "Cuysaurus"
+  name   : "CuysauruS"
   avatar : "/assets/images/vitlogo.jpg"
   bio    : "Your daily source of vitamins."
   location: "Somewhere, EC"
