@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: 'en-US'
-title: "CuysauruS"
-subtitle: "CS1.6 pro"
-logo: "/assets/images/unnamed.jpg"
-name: 'ninja in pijama'
+title: "VitaminasnoW"
+subtitle: "vitaminasno_ec"
+logo: "/assets/images/vitlogo.jpg"
+name: 'cuysaurus'
 #twitter_username: username
 #github_username: username
-description: 'R user'
+description: 'Freelancer'
 email: ninjainpijama@outlook.com
-teaser: '/assets/images/unnamed.jpg'
+teaser: '/assets/images/teaser.jpg'
 breadcrumbs: true # true, false (default)
 words_per_minute: 200
 minimal_mistakes_skin: default # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
@@ -79,8 +79,8 @@ whitelist:
 
 author:
   name   : "Cuysaurus"
-  avatar : "/assets/images/unnamed.jpg"
-  bio    : "Your daily source of fun."
+  avatar : "/assets/images/vitlogo.jpg"
+  bio    : "Your daily source of vitamins."
   location: "Somewhere, EC"
   mail: "ninjainpijama@outlook.com"
   links:
