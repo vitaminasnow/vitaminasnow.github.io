@@ -12,7 +12,7 @@ Bienvenidos.
 Larga historia corta, soy un antiguo y futuro estadístico que se hace pasar por proveedor de vitaminas. Busca ayudar en la mejora la salud en general y prevención de enfermedades! Para la familia!
 
 <p align="center">
-  <img src="https://github.com/nipnipj/nipnipj.github.io/blob/master/assets/images/masonlog.jpeg?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/vitaminasnow/vitaminasnow.github.io/blob/main/assets/images/masonlog.jpeg?raw=true" alt="Sublime's custom image"/>
 </p>
 
 Psss... si te preguntas sobre su calidad, es Mason Natural --- Hecho en U.S.A. 
