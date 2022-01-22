@@ -1,6 +1,8 @@
 main:
   - title: "Posts"
     url: /posts/
+  - title: "Catálogo"
+    url: /catalogue/
   - title: "Acerca de"
     url: /about/
   - title: "Contacto"
