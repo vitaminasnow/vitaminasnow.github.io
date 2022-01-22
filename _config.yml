@@ -122,6 +122,7 @@ defaults:
       share: false
       related: true
       show_date: true
+      search: true
   # _pages
   - scope:
       path: ""
