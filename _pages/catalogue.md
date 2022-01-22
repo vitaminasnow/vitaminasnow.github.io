@@ -1,8 +1,6 @@
 ---
----
 permalink: /catalogue/
 title: " "
----
 ---
 
 Descarga el catálogo en formato .PDF [aquí](https://vitaminasnow.github.io/Catalogo.pdf).
