@@ -12,5 +12,5 @@ En caso de producto agotado, el cliente aún puede colocar su orden y el proceso
 # Entrega a domicilio 
 El proceso de entrega a domicilio inicia una vez comprobado el pago mediante deposito. El tiempo de espera puede variar dependiendo de la disponibilidad de courriers.
 
-# Pedido al por mayor
+# Pedidos al por mayor
 Se aceptan pedidos al por mayor.
