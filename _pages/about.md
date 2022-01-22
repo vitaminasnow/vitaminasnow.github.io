@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: 
+title: " "
 ---
 
 # Ordenes / Pedidos
