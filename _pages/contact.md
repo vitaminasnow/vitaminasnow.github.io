@@ -1,6 +1,5 @@
 ---
 permalink: /contact/
-title: "Contacto"
 ---
 
 # Mail
