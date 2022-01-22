@@ -6,5 +6,5 @@ title: " "
 # Mail
 ninjainpijama@outlook.com
 
-# Whatsapp
+# WhatsApp
 +593 98-540-3396
