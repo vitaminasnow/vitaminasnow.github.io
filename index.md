@@ -10,7 +10,7 @@ header:
 ---
 
 Bienvenidos.
-Mejora la salud en general y prevención de enfermedades! De toda tu familia!
+Mejora la tu salud en general y fortalece tus defensas en contra de enfermedades! Y la de toda tu familia!
 
 <p align="center">
   <img src="https://github.com/vitaminasnow/vitaminasnow.github.io/blob/main/assets/images/masonlog.jpeg?raw=true" alt="Sublime's custom image"/>
